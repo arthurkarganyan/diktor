@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 359 on 2023-05-21 at 17:47 (CEST)-->
+<!--Last edited by Ukelele version 396 on 2024-05-04 at 10:25 (CEST)-->
 <keyboard group="126" id="-22824" name="Diktor – Colemak ⌘" maxout="1">
     <layouts>
         <layout first="0" last="0" mapSet="138" modifiers="30"/>
@@ -407,9 +407,9 @@
             <key code="4" output="љ"/>
             <key code="5" output="©"/>
             <key code="6" output="ђ"/>
-            <key code="7" output="≈"/>
+            <key code="7" output="є"/>
             <key code="8" output="≠"/>
-            <key code="9" output="µ"/>
+            <key code="9" output="і"/>
             <key code="10" output="§"/>
             <key code="11" output="ю"/>
             <key code="12" output="џ"/>
@@ -439,15 +439,15 @@
             <key code="36" output="&#x000D;"/>
             <key code="37" output="…"/>
             <key code="38" output="њ"/>
-            <key code="39" output="ј"/>
+            <key code="39" output="ї"/>
             <key code="40" output="™"/>
             <key code="41" output="₽"/>
-            <key code="42" output="ё"/>
+            <key code="42" output="ʼ"/>
             <key code="43" output="≤"/>
             <key code="44" output="“"/>
             <key code="45" output="б"/>
             <key code="46" output="~"/>
-            <key code="47" output="≥"/>
+            <key code="47" output="ґ"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
             <key code="50" output="]"/>
