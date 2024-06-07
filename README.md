@@ -11,6 +11,10 @@ id="effectiveness">[1](#fn-effectiveness)</sup>
 
 ![Диктор](./img/diktor.png)
 
+## Внесение изменений
+
+При помощи приложения [Ukulele](https://software.sil.org/ukelele/).
+
 ## Отличия от оригинальной версии
 
 |Оригинальная версия                                        | Новая версия (с зажатым `Option`)                                      |
